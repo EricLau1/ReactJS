@@ -1,0 +1,18 @@
+React Js Errors:
+
+
+Error: watch /home/eric/Development/ReactJs/huntweb/public/index.html ENOSP
+
+Tente executar os seguintes comandos:
+
+Resolver Temporariamente:
+
+	$ sudo sysctl fs.inotify.max_user_watches=524288
+	
+	$ sudo sysctl -p
+
+Resolver Permanentemente:
+
+	$ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf
+	
+	$ sudo sysctl -p
