@@ -1,0 +1,19 @@
+ReactJS consumindo API em Java.
+
+Books Api:
+
+https://github.com/EricLau1/Java/tree/master/Apis/books-api
+
+
+Download packages:
+
+$ npm i axios --save
+
+$ npm i bootstrap reactstrap --save
+
+Site: https://reactstrap.github.io/
+
+Importar o Bootstrap no arquivo index.js principal:
+
+	import 'bootstrap/dist/css/bootstrap.min.css';
+
