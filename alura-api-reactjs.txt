@@ -1,0 +1,1 @@
+java -Dspring.datasource.username=root -Dspring.datasource.password=@root -jar cdcreact-1.0.0-SNAPSHOT.jar

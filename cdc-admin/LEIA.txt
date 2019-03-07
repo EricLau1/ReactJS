@@ -1,0 +1,23 @@
+Layout:
+
+    https://purecss.io/
+
+Site de componentes baseado no google materials:
+
+    http://react-toolbox.io
+
+Módulos Baixados:
+
+    JQuery: 
+
+        npm i jquery --save
+
+    PubSubJS:
+
+        npm i pubsub-js --save
+
+        https://github.com/mroderick/PubSubJS
+
+    React Router Dom:
+
+        npm i react-router-dom --save
