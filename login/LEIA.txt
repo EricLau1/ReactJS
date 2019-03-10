@@ -1,0 +1,3 @@
+Download:
+
+$ npm i bootstrap reactstrap react-router-dom --save
