@@ -1,0 +1,3 @@
+Download packages
+
+ npm i redux react-redux moment --save

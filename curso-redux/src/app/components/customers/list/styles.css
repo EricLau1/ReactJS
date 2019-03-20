@@ -1,0 +1,8 @@
+.customer-list table,
+.customer-list table th,
+.customer-list table tr,
+.customer-list table td {
+    border: 1px solid #cecece;
+    border-collapse: collapse;
+    padding: 10px;
+}
