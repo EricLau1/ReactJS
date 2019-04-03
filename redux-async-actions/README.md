@@ -1,0 +1,1 @@
+npm i --save redux react-redux redux-thunk
