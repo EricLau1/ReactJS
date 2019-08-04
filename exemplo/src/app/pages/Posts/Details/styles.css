@@ -1,0 +1,8 @@
+.post-details {
+    margin: 0 auto;
+    width: 700px;
+}
+
+.post-details p {
+    text-align: justify;
+}
