@@ -1,0 +1,1 @@
+npm install -D redux react-redux

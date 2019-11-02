@@ -1,0 +1,4 @@
+export const ActionTypes = {
+    CLICK_UPDATE_VALUE: 'CLICK_UPDATE_VALUE',
+    ON_CHANGE_INPUT_VALUE: 'ON_CHANGE_INPUT_VALUE',
+};
